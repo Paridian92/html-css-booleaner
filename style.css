@@ -1,0 +1,72 @@
+header{
+  background-image: url(img/pattern.png);
+  background-color:#4ea0ff;
+  background-repeat: repeat;
+  background-size: 50%;
+  padding-top: 40px;
+  text-align: left;
+}
+
+.logo{
+  margin-left: 15%;
+  width: 20%;
+}
+
+
+main, footer{
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+
+}
+.grigio{
+  color: grey;
+}
+
+.evidenziatore{
+  background-color: yellow;
+}
+
+.autore{
+  color:#37b2e8;
+}
+
+.infophoto{
+  font-size: 10px;
+}
+table, tbody, thead {
+  border-collapse: collapse;
+  border: 0px;
+}
+.firstrow{
+  background-color: blue;
+  color: white;
+}
+
+.secondrow{
+  background-color: aqua;
+}
+
+.pubblicita1{
+  margin: 0px;
+  background-image: url(img/monitor.jpg);
+  background-repeat: cover;
+  color: #FFFFFF;
+  font-size: 140%;
+  font-weight: normal;
+  padding:15px;
+  width: 340px;
+  height: 200px;
+}
+
+.pubblicita2{ 
+  margin-top: 10px;
+  background-image: url(img/graph.jpg);
+  background-repeat: cover;
+  color: #FFFFFF;
+  font-size: 140%;
+  font-weight: bold;
+  padding: 15px;
+  width: 340px;
+  height: 200px;
+}
